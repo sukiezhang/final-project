@@ -25,6 +25,7 @@ RUN pip install \
     scipy \
     jupyter
 
+
 # Set the working directory
 WORKDIR /workspace
 

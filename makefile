@@ -2,6 +2,7 @@
 .PHONY: clean
 .PHONY: Init
 
+
 Init: 
 	mkdir -p output	
 	mkdir -p output/tables	
