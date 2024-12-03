@@ -30,3 +30,10 @@ Here is the project structure:
 | `Dockerfile`                 | Docker configuration.                |
 | `requirements.txt`           | Required Python packages.            |
 | `main.py`                    | Main workflow script.                |
+
+# Instructions on how to use the repo
+First, build a docker image in the project directory with the Dockerfile. 
+Second, run the Docker container and excute the Makefile to creat all the figures and tables saved in `output/`.
+The main Python script is`main.py` and the souce codes are stored in `src/`. 
+Third, use Latex to creat the final report with figures/tavles inserted; you can find the Latex source file as `report.tex`. 
+Final report compiled as `bios611_final_report.pdf` is saved under `final_project/`.
