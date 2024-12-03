@@ -1,7 +1,9 @@
 # BIOS611-final-project
-Hi, this is my 611 Data Science Project. Here is the project structure:
-# Final Project Directory Structure
+Hi, this is my BIOS 611 final project. The project aims to train a model to predict an individual is at high risk or low risk of a heart attack 
+based on the input parameters including patient’s socio-demographics, clinical  characteristics, lifestyle, and comorbidities.
 
+Here is the project structure:
+# Final Project Directory Structure
 | Directory/File               | Description                           |
 |------------------------------|---------------------------------------|
 | `final_project/`             | Main project directory.              |
