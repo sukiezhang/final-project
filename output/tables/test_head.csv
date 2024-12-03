@@ -1,0 +1,6 @@
+Patient ID,Age,Sex,Cholesterol,Blood Pressure,Heart Rate,Diabetes,Family History,Smoking,Obesity,Alcohol Consumption,Exercise Hours Per Week,Diet,Previous Heart Problems,Medication Use,Stress Level,Sedentary Hours Per Day,Income,BMI,Triglycerides,Physical Activity Days Per Week,Sleep Hours Per Day,Country,Continent,Hemisphere
+BMW7812,67,Male,208,158/88,72,0,0,1,0,0,4.168188835442079,Average,0,0,9,6.61500145291406,261404,31.2512327252954,286,0,6,Argentina,South America,Southern Hemisphere
+XXM0972,84,Male,220,131/68,107,0,0,1,1,1,3.427928754300873,Average,0,1,4,10.54378023926684,122093,22.2218617394038,370,6,7,Japan,Asia,Northern Hemisphere
+RQX1211,60,Male,145,160/98,71,1,0,1,0,1,1.892559330229886,Healthy,1,0,8,5.994227909599145,234966,29.16231875379266,247,7,7,Canada,North America,Northern Hemisphere
+RVN4963,45,Male,294,130/84,66,0,0,1,1,1,13.693784934516238,Healthy,0,0,9,7.00739172638799,216565,25.12060465400529,360,4,6,France,Europe,Northern Hemisphere
+NCU1956,36,Male,133,161/90,97,1,0,1,1,1,3.618009049938087,Healthy,1,0,10,10.96354409652623,223132,22.38680355711688,605,5,10,Canada,North America,Northern Hemisphere

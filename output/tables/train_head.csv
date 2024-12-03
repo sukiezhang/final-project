@@ -1,0 +1,6 @@
+Patient_ID,Age,Sex,Cholesterol,Blood_Pressure,Heart_Rate,Diabetes,Family_History,Smoking,Obesity,Alcohol_Consumption,Exercise_Hours_Per_Week,Diet,Previous_Heart_Problems,Medication_Use,Stress_Level,Sedentary_Hours_Per_Day,Income,BMI,Triglycerides,Physical_Activity_Days_Per_Week,Sleep_Hours_Per_Day,Country,Continent,Hemisphere,Heart_Attack_Risk
+RDG0550,33,Male,200,129/90,48,0,1,1,1,1,7.807689536122786,Unhealthy,0,1,2,0.1384434500268652,184066,30.449815137618565,63,6,7,Argentina,South America,Southern Hemisphere,1
+NMA3851,56,Female,262,159/105,46,1,0,1,0,0,17.297628057142543,Average,1,0,8,0.3695521724499415,211755,34.9736848775438,333,7,8,Nigeria,Africa,Northern Hemisphere,1
+TUI5807,19,Female,140,161/109,54,0,1,0,0,1,8.69528819645735,Average,1,1,3,8.64633355442366,252203,30.554246454025847,537,2,10,Thailand,Asia,Northern Hemisphere,0
+YYT5016,50,Female,163,120/62,53,0,1,1,1,1,10.161586665018811,Healthy,0,1,7,1.1078840865164143,121954,35.39026529623783,591,0,9,Spain,Europe,Southern Hemisphere,1
+ZAC5937,89,Female,144,153/110,92,1,0,1,0,1,16.436786809471062,Healthy,1,0,1,1.3375697576178194,180121,39.57548272841595,145,2,5,Germany,Europe,Northern Hemisphere,1
